@@ -79,7 +79,7 @@ The platform was designed to streamline campaign execution by enabling large-sca
 
 To respect client confidentiality and intellectual property, the production source code is not included in this repository. Instead, this repository focuses on the overall system architecture, development approach, workflows, technical challenges, and engineering experience gained while delivering the solution.
 
-<img src="asset/screenshots/login-page.png" width="100%">
+<img src="asset/screenshorts/login-page.png" width="100%">
 ---
 
 ## 👨‍💻 My Role
@@ -251,7 +251,7 @@ This architecture provides several advantages:
 
 By processing video-generation jobs in the background, the platform ensures that long-running tasks do not block normal user interactions, resulting in a more stable and scalable application.
 
-<img src="asset/screenshots/admin dashboard.png" width="100%">
+<img src="asset/screenshorts/admin dashboard.png" width="100%">
 ---
 
 # 🏗️ Technical Architecture Highlights
