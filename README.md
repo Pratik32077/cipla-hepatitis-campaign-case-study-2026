@@ -276,7 +276,7 @@ Together, these technologies provide a structured and reliable foundation for se
 # ✨ Key Features
 
 The platform was developed to support the complete lifecycle of a large-scale healthcare awareness campaign by providing secure, efficient, and automated digital operations.
-<img src="asset/screenshots/manager dashboard.png" width="100%">
+<img src="asset/screenshorts/manager dashboard.png" width="100%">
 
 ## 🔐 Secure User Authentication
 
@@ -298,7 +298,7 @@ Key capabilities include:
 - Manager-wise data access
 - Secure account management
 
-<img src="asset/screenshots/Admin Manager reg.png" width="100%">
+<img src="asset/screenshorts/Admin Manager reg.png" width="100%">
 
 ## 🩺 Doctor Management
 
@@ -313,9 +313,9 @@ Features include:
 - Search and filtering
 - Bulk data handling
 
-<img src="asset/screenshots/managers doc entry.png" width="100%">
+<img src="asset/screenshorts/managers doc entry.png" width="100%">
 ---
-<img src="asset/screenshots/Manager Doc add reg.png" width="100%">
+<img src="asset/screenshorts/Manager Doc add  reg.png" width="100%">
 ## 🎥 Automated Video Generation
 
 One of the primary capabilities of the platform is automated branded video generation.
@@ -417,7 +417,7 @@ The application follows a modern full-stack architecture designed to support sec
 
 The architecture separates user interaction, business logic, data storage, and background processing into dedicated layers to improve maintainability, scalability, and overall system performance.
 
-<img src="asset/screenshots/Manager Doc add reg.png" width="100%">
+<img src="asset/diagrams/system-architecture.png" width="100%">
 
 ---
 
@@ -699,7 +699,7 @@ Beyond application development, I was actively involved in supporting the platfo
 
 The objective was to deliver a stable and reliable experience while minimizing operational disruptions.
 
-<img src="asset/screenshots/Admin All dr entry.png" width="100%">
+<img src="asset/screenshorts/Admin All dr entry.png" width="100%">
 ---
 
 ## My Responsibilities
@@ -789,7 +789,7 @@ This platform was developed to support a large-scale healthcare awareness campai
 
 The application was designed to streamline day-to-day campaign activities while maintaining security, reliability, and operational efficiency.
 
-<img src="asset/screenshots/Video sharing.png" width="100%">
+<img src="asset/screenshorts/Video sharing.png" width="100%">
 ---
 
 ## Engineering Highlights
@@ -861,8 +861,8 @@ A complete walkthrough of the application covering:
 - Video Processing Workflow
 - Overall Platform Navigation
 
-▶️ **Watch Tutorial Video:**  
-https://drive.google.com/file/d/1YQNMNh77I38isQZtbP5TsqUkZxxKSV0g/view?usp=sharing
+▶️ **Watch Video:**  
+[01-complete-platform-walkthrough (1).mp4](asset/videos/01-complete-platform-walkthrough%20(1).mp4)
 
 ---
 
@@ -890,8 +890,8 @@ Final Branded Video
 Video Sharing
 ```
 
-▶️ **Watch Workflow Demo:**  
-https://drive.google.com/file/d/1agatIO-CRo7PX4VYQFYpxduJQ_1HgF2A/view?usp=drive_link
+▶️ **Watch Video:**  
+[02-doctor-registration-to-video-generation.mp4](asset/videos/02-doctor-registration-to-video-generation.mp4)
 
 ---
 
