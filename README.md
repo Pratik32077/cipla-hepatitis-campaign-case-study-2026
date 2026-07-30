@@ -631,3 +631,156 @@ The workflow was designed to achieve the following goals:
 
 The workflow emphasizes scalability and operational stability by separating user-facing activities from resource-intensive background processing. This design helps maintain a responsive application while supporting large-scale campaign operations.
 
+# 🚀 Production Support
+
+## Overview
+
+Beyond application development, I was actively involved in supporting the platform during the live campaign. This included monitoring production operations, resolving technical issues, coordinating with stakeholders, and ensuring the platform remained available for day-to-day campaign activities.
+
+The objective was to deliver a stable and reliable experience while minimizing operational disruptions.
+
+---
+
+## My Responsibilities
+
+During production, I was responsible for:
+
+- Monitoring application health and availability
+- Troubleshooting reported technical issues
+- Investigating user-reported problems
+- Supporting managers during campaign operations
+- Coordinating issue resolution with the technical team
+- Assisting with production deployments
+- Preparing user guidance and documentation
+- Creating tutorial videos for platform users
+- Providing technical support throughout the campaign
+
+---
+
+## Production Issue Resolution
+
+During the live campaign, several operational issues required investigation and resolution.
+
+Examples of the types of issues handled include:
+
+- User access issues
+- Login-related troubleshooting
+- Network and connectivity problems
+- Browser compatibility issues
+- Data validation support
+- Video processing requests
+- Deployment-related verification
+- General production support
+
+Each issue was analyzed, diagnosed, and resolved while minimizing the impact on campaign operations.
+
+---
+
+## User Support
+
+The platform supported a large number of operational users.
+
+Support activities included:
+
+- Assisting campaign managers
+- Explaining platform workflows
+- Resolving operational queries
+- Guiding users through application features
+- Helping users complete campaign activities successfully
+
+To improve user adoption, technical guidance and tutorial resources were also prepared for end users.
+
+---
+
+## Operational Focus
+
+The production support process emphasized:
+
+- Reliability
+- Stability
+- Fast issue resolution
+- Clear communication
+- Continuous monitoring
+- User assistance
+- Operational continuity
+
+---
+
+## Key Learnings
+
+Working on a live production campaign provided valuable experience in:
+
+- Enterprise application support
+- Production troubleshooting
+- Incident analysis
+- Technical communication
+- Cross-functional collaboration
+- Live deployment management
+- User-centric problem solving
+
+The experience reinforced the importance of building software that is not only functional but also maintainable, reliable, and well-supported throughout its operational lifecycle.
+
+# 📊 Project Impact
+
+## Project Scope
+
+This platform was developed to support a large-scale healthcare awareness campaign by providing a centralized web application for campaign management, operational coordination, automated media generation, and reporting.
+
+The application was designed to streamline day-to-day campaign activities while maintaining security, reliability, and operational efficiency.
+
+---
+
+## Engineering Highlights
+
+During the project, the platform included capabilities such as:
+
+- Secure role-based authentication
+- Centralized doctor data management
+- Automated branded video generation
+- Background job processing using BullMQ
+- Queue-based media processing with FFmpeg
+- Production deployment on a VPS environment
+- Dashboard-based monitoring and reporting
+- Excel import and export workflows
+- Email notification integration
+- Production support throughout the campaign
+
+---
+
+## Technical Objectives
+
+The engineering goals of the platform included:
+
+- Building a scalable web application
+- Automating repetitive operational tasks
+- Improving campaign execution efficiency
+- Maintaining application responsiveness during media processing
+- Supporting secure multi-user access
+- Providing a stable production environment
+- Simplifying campaign management workflows
+
+---
+
+## Professional Experience Gained
+
+Working on this project provided hands-on experience in:
+
+- Enterprise application development
+- Full-stack web engineering
+- Production deployments
+- Background job processing
+- Media processing automation
+- Technical troubleshooting
+- Production support
+- Cross-functional collaboration
+- Technical documentation
+- Client communication
+
+---
+
+## Repository Purpose
+
+This repository has been created as a technical case study to showcase the engineering approach, architecture, workflows, and lessons learned while developing and supporting an enterprise healthcare campaign platform.
+
+To respect client confidentiality, proprietary source code, production data, internal documentation, and business-specific implementation details have been intentionally excluded.
+
