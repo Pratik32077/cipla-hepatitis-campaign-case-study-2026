@@ -1,3 +1,57 @@
+<p align="center">
+  <img src="assets/hero/hero-banner.jpg" alt="Enterprise Healthcare Campaign Platform Banner" width="100%">
+</p>
+
+<h1 align="center">
+Enterprise Healthcare Campaign Platform
+</h1>
+
+<h3 align="center">
+Technical Case Study • Full Stack Development • Video Processing • Production Support
+</h3>
+
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-Framework-000000?logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?logo=jsonwebtokens)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx)
+![PM2](https://img.shields.io/badge/PM2-Process%20Manager-2B037A)
+![BullMQ](https://img.shields.io/badge/BullMQ-Background%20Jobs-red)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Video%20Processing-007808)
+
+</p>
+
+---
+
+# 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [My Role](#-my-role)
+- [Technology Stack](#️-technology-stack)
+- [Key Features](#-key-features)
+- [System Architecture](#-system-architecture)
+- [Project Workflow](#-project-workflow)
+- [Production Support](#-production-support)
+- [Project Impact](#-project-impact)
+- [Application Screenshots](#-application-screenshots)
+- [Demo Videos](#-demo-videos)
+- [Media Coverage](#-media-coverage)
+- [Awards & Recognition](#-awards--recognition)
+- [Related Open Source Project](#-related-open-source-project)
+- [Disclaimer](#-disclaimer)
+
+> ## ⚠️ Confidential Client Project
+>
+> This repository presents a **technical case study** of an enterprise healthcare campaign platform that I developed and supported for a client.
+>
+> The original production source code is **not included** because it contains confidential business logic and proprietary implementation details belonging to the client.
+>
+> This repository focuses on the engineering approach, architecture, workflows, production support experience, and publicly shareable project documentation.
+
+---
+
 # Enterprise Healthcare Campaign Platform
 ### Technical Case Study
 
