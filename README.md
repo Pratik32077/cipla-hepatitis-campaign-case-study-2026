@@ -79,6 +79,7 @@ The platform was designed to streamline campaign execution by enabling large-sca
 
 To respect client confidentiality and intellectual property, the production source code is not included in this repository. Instead, this repository focuses on the overall system architecture, development approach, workflows, technical challenges, and engineering experience gained while delivering the solution.
 
+<img src="asset/screenshots/login-page.png" width="100%">
 ---
 
 ## 👨‍💻 My Role
@@ -250,6 +251,7 @@ This architecture provides several advantages:
 
 By processing video-generation jobs in the background, the platform ensures that long-running tasks do not block normal user interactions, resulting in a more stable and scalable application.
 
+<img src="asset/screenshots/admin dashboard.png" width="100%">
 ---
 
 # 🏗️ Technical Architecture Highlights
@@ -274,6 +276,7 @@ Together, these technologies provide a structured and reliable foundation for se
 # ✨ Key Features
 
 The platform was developed to support the complete lifecycle of a large-scale healthcare awareness campaign by providing secure, efficient, and automated digital operations.
+<img src="asset/screenshots/manager dashboard.png" width="100%">
 
 ## 🔐 Secure User Authentication
 
@@ -295,7 +298,7 @@ Key capabilities include:
 - Manager-wise data access
 - Secure account management
 
----
+<img src="asset/screenshots/Admin Manager reg.png" width="100%">
 
 ## 🩺 Doctor Management
 
@@ -310,8 +313,9 @@ Features include:
 - Search and filtering
 - Bulk data handling
 
+<img src="asset/screenshots/managers doc entry.png" width="100%">
 ---
-
+<img src="asset/screenshots/Manager Doc add reg.png" width="100%">
 ## 🎥 Automated Video Generation
 
 One of the primary capabilities of the platform is automated branded video generation.
@@ -412,6 +416,8 @@ The platform was designed to support continuous campaign operations with emphasi
 The application follows a modern full-stack architecture designed to support secure user management, high-volume campaign operations, automated media processing, and production-grade deployment.
 
 The architecture separates user interaction, business logic, data storage, and background processing into dedicated layers to improve maintainability, scalability, and overall system performance.
+
+<img src="asset/screenshots/Manager Doc add reg.png" width="100%">
 
 ---
 
@@ -554,7 +560,7 @@ Specific implementation details, proprietary business logic, internal APIs, data
 The platform follows a structured workflow that guides campaign operations from user authentication to automated video generation and reporting. Each stage is designed to ensure secure access, efficient data management, and reliable execution of resource-intensive tasks.
 
 ---
-
+<img src="asset/diagrams/project-workflow.png" width="100%">
 ## Workflow Diagram
 
 ```text
@@ -693,6 +699,7 @@ Beyond application development, I was actively involved in supporting the platfo
 
 The objective was to deliver a stable and reliable experience while minimizing operational disruptions.
 
+<img src="asset/screenshots/Admin All dr entry.png" width="100%">
 ---
 
 ## My Responsibilities
@@ -782,6 +789,7 @@ This platform was developed to support a large-scale healthcare awareness campai
 
 The application was designed to streamline day-to-day campaign activities while maintaining security, reliability, and operational efficiency.
 
+<img src="asset/screenshots/Video sharing.png" width="100%">
 ---
 
 ## Engineering Highlights
@@ -799,7 +807,6 @@ During the project, the platform included capabilities such as:
 - Email notification integration
 - Production support throughout the campaign
 
----
 
 ## Technical Objectives
 
@@ -838,3 +845,193 @@ This repository has been created as a technical case study to showcase the engin
 
 To respect client confidentiality, proprietary source code, production data, internal documentation, and business-specific implementation details have been intentionally excluded.
 
+# 🎥 Demo Videos
+
+The following demonstration videos showcase the application's key workflows and functionality.
+
+## 📺 1. Complete Platform Walkthrough
+
+A complete walkthrough of the application covering:
+
+- User Login
+- Admin Dashboard
+- Manager Dashboard
+- Doctor Management
+- Reports & Analytics
+- Video Processing Workflow
+- Overall Platform Navigation
+
+▶️ **Watch Tutorial Video:**  
+https://drive.google.com/file/d/1YQNMNh77I38isQZtbP5TsqUkZxxKSV0g/view?usp=sharing
+
+---
+
+## 🎬 2. Doctor Registration to Final Video Generation
+
+This demonstration shows the complete workflow from doctor registration to branded video generation.
+
+### Workflow
+
+```text
+Manager Login
+      ↓
+Doctor Registration
+      ↓
+Doctor Information Validation
+      ↓
+Video Generation Request
+      ↓
+BullMQ Background Queue
+      ↓
+FFmpeg Video Processing
+      ↓
+Final Branded Video
+      ↓
+Video Sharing
+```
+
+▶️ **Watch Workflow Demo:**  
+https://drive.google.com/file/d/1agatIO-CRo7PX4VYQFYpxduJQ_1HgF2A/view?usp=drive_link
+
+---
+
+> **Note:** These videos are shared for demonstration purposes only. Sensitive client information has been removed or masked where necessary.
+
+# 📰 Media Coverage
+
+The healthcare awareness campaign received public visibility through newspapers and media publications during the World Hepatitis Day initiative.
+
+> The following media coverage highlights the public campaign. These publications relate to the campaign and do not disclose any confidential application details.
+
+<p align="center">
+  <img src="asset/media/news 1.png" width="48%">
+  <img src="asset/media/news 2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="asset/media/news 3.png" width="48%">
+  <img src="asset/media/news 4.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="asset/media/news 5.png" width="48%">
+  <img src="asset/media/news 6.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="asset/media/news 7.png" width="48%">
+  <img src="asset/media/news 8.png" width="48%">
+</p>
+
+---
+# 🏅 Campaign Recognition
+
+As part of the World Hepatitis Day initiative, the campaign received public recognition and appreciation.
+
+My contribution to this project was the design, development, deployment, and production support of the application used during the campaign.
+
+> **Note:** The official campaign recognition, certificates, and awards belong to the client and campaign organizers. The images below are included to document the public campaign and my participation in the event.
+
+<p align="center">
+  <img src="asset/achievements/certificate.jpeg" width="30%">
+  <img src="asset/achievements/event-certificate.png" width="30%">
+  <img src="asset/achievements/my pic with certificate.jpeg" width="30%">
+</p>
+
+<p align="center">
+  <img src="asset/achievements/my pic.jpeg" width="40%">
+  <img src="asset/achievements/my photo.jpeg" width="40%">
+</p>
+
+---
+# 🔗 Related Open Source Project
+
+The production application showcased in this repository was developed for a client and its source code is **not publicly available** due to confidentiality and intellectual property restrictions.
+
+To demonstrate part of the engineering approach, I have published a separate open-source repository that showcases the video branding and processing workflow.
+
+## 📂 Video Branding & Processing Repository
+
+**Repository Name:** Updated Version of Video Branding
+
+**GitHub Repository:**
+
+👉 https://github.com/Pratik32077/Updated-version-of-video-branding-
+
+### What this repository demonstrates
+
+- Video branding workflow
+- FFmpeg integration
+- Video processing concepts
+- Media generation techniques
+- Reference implementation for learning purposes
+
+> **Note:** This open-source repository is an independent reference implementation. It does **not** contain any proprietary code, confidential business logic, or client-specific implementation from the production application.
+
+# ⚖️ Disclaimer
+
+This repository has been created for educational, portfolio, and professional demonstration purposes.
+
+The original application was developed for a client as part of a healthcare awareness campaign.
+
+To respect confidentiality and intellectual property agreements:
+
+- The production source code is **not included**
+- No confidential client information is shared
+- No production database or credentials are included
+- No proprietary business logic is disclosed
+- Screenshots and documentation have been reviewed to avoid exposing sensitive operational information
+
+All trademarks, logos, and campaign-related materials remain the property of their respective owners.
+
+The content of this repository focuses exclusively on my technical contribution, engineering approach, architecture, and software development experience.
+
+# 👨‍💻 About the Developer
+
+## Pratik Jogendra Tiwari
+
+Full Stack Developer passionate about building scalable web applications, automation platforms, AI-powered solutions, and enterprise software.
+
+### 💻 Technical Skills
+
+- Next.js
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Docker
+- PM2
+- Nginx
+- FFmpeg
+- BullMQ
+- JWT Authentication
+- REST APIs
+- Git & GitHub
+
+### 🌐 Portfolio
+
+**Website:** https://pratiktech.in
+
+### 💼 LinkedIn
+
+**Profile:** https://www.linkedin.com/in/pratik-tiwari-j28022005/
+
+### 📧 Contact
+
+**Email:** pratiktiwari498@gmail.com
+
+---
+
+## Thank You
+
+Thank you for taking the time to explore this project.
+
+This repository represents my approach to designing, developing, deploying, and maintaining enterprise-grade applications while respecting client confidentiality and professional ethics.
+
+I am always open to discussing software engineering, full-stack development, AI-powered applications, automation, and exciting collaboration opportunities.
+
+⭐ If you found this repository interesting, consider giving it a star!
