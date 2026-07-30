@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero/hero-banner.jpg" alt="Enterprise Healthcare Campaign Platform Banner" width="100%">
+  <img src="asset/hero/hero-banner.png" alt="Enterprise Healthcare Campaign Platform Banner" width="100%">
 </p>
 
 <h1 align="center">
